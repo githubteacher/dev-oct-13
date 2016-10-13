@@ -2,6 +2,7 @@
 ## Dallas, TX
 
 ### Places to eat :BBQ:
-- Hard8 BBQ
-- Pecan Lodge
-- Backyard Slow Cooker
+- Hard8 BBQ - Great Atmospher
+- Pecan Lodge - The line can be crazy !
+- Red, Hot, & Blue (More of a chain)
+- Fat Cow BBQ - http://fatcowbbq.com/    OK Take Out
