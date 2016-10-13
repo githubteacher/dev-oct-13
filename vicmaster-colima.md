@@ -13,3 +13,4 @@ If you haven't visit mexico, I highly recommend you to come to Colima.
 * Taco Loco
 * Las Mentadas (:taco: & :beer:)
 * El Rey del Taco
+* Tacos de Humo (Smooked tacos)
