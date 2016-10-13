@@ -6,3 +6,4 @@
 - Spicy Corner
 - Pecos
 - Church Street Socials
+- Taco Bell
