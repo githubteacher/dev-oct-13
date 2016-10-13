@@ -6,3 +6,6 @@
 - Artigiano for coffee
 - Rogue Kitchen and Wetbar
 - La casita for Mexican food
+
+##Places to visit
+- Queen Elizabeth Park
