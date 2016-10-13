@@ -4,3 +4,6 @@
 - Marie Leavue
 - KÄK
 - Burgers and Lobsters
+
+### Places to eat sushi
+- Sushiyama
