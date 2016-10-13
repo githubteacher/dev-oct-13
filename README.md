@@ -16,3 +16,5 @@
 
 ### Resources
 - [Help with Markdown](https://guides.github.com/features/mastering-markdown/)
+- [GitHub Flow](https://guides.github.com/introduction/flow/)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
