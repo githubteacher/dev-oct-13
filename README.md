@@ -1,5 +1,7 @@
 # Welcome to GitHub for Developers!
 
+[![Join the chat at https://gitter.im/githubteacher/dev-oct-13](https://badges.gitter.im/githubteacher/dev-oct-13.svg)](https://gitter.im/githubteacher/dev-oct-13?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Facilitators
 - On the Mic:
   - Matt, :octocat: [@beardofedu](http://github.com/beardofedu)
