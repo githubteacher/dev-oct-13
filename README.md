@@ -1,7 +1,5 @@
 # Welcome to GitHub for Developers!
 
-[![Join the chat at https://gitter.im/githubteacher/dev-oct-13](https://badges.gitter.im/githubteacher/dev-oct-13.svg)](https://gitter.im/githubteacher/dev-oct-13?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ### Facilitators
 - On the Mic:
   - Matt, :octocat: [@beardofedu](http://github.com/beardofedu)
@@ -13,7 +11,8 @@
 - Sign up for an account on [github.com](http://github.com)
 
 ### Talk To Us! :speech_balloon:
-
+- [![Join the chat at https://gitter.im/githubteacher/dev-oct-13](https://badges.gitter.im/githubteacher/dev-oct-13.svg)](https://gitter.im/githubteacher/dev-oct-13?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+- :point_up_2: Click the button to join us on Gitter for Q&A
 
 ### Resources
 - [Help with Markdown](https://guides.github.com/features/mastering-markdown/)
