@@ -1,5 +1,8 @@
 # Welcome to GitHub for Developers!
 
+### Contributors
+- Shrimadhav U K
+
 ### Facilitators
 - On the Mic:
   - Matt, :octocat: [@beardofedu](http://github.com/beardofedu)
